@@ -1,31 +1,31 @@
 Objective is to create an application that captures the following things
 
-Daily Ideas and thoughts
+      Daily Ideas and thoughts
 
-Dreams Goals and Aspirations
+      Dreams Goals and Aspirations
 
-Daily to do's
+      Daily to do's
 
-Life goals
+      Life goals
 
-Work Goals
+      Work Goals
 
-Educational goals
+      Educational goals
 
-Side hustles
+      Side hustles
 
-The application has Three Categories
+The application has five Categories
 
-Projects
-  Tasks
-  
-To-Do's
+      Projects
+        Tasks
 
-Somedays
+      To-Do's
 
-Archives
+      Somedays  
 
-Reference
+      Archives
+
+      Reference
 
 Once you imput your ideas thoughts and tasks into the app it does scheduling for you.
 
@@ -37,4 +37,6 @@ When you put a task or project it gives you insites on how to do that and tips o
 
 It asks you and estimated time you think the task or To-Do will take you and it automatically schedules you on your free time
 
-it works well with any 
+it works well with any calendar.
+
+Tracks succeess rate and uses an algorythm to tell you when you should do a specific task based on past successes.
